@@ -5,7 +5,7 @@
 
 ## Unidad: 3 - Trabajo Práctico 6
 
-#### Contenidos Desarrollados:
+#### Contenidos Desarrollado:
 
 - Introducción al lenguaje Javascript
 
