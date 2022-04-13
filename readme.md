@@ -1,4 +1,4 @@
-# Desafío: Uso Básico de Arrays y Objetos
+# Desafío: Uso de Métodos con Arrays y Objetos
 
 ### Módulo 2
 ### Programación Básica en JavaScript
